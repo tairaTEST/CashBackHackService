@@ -1,7 +1,5 @@
 package ru.netology.unit;
 
-import static org.testng.Assert.assertEquals;
-
 public class CashBackHackServiceTest {
 
     @org.testng.annotations.Test
